@@ -1,0 +1,57 @@
+[   
+    {
+        "name": "Anchovy",
+        "labelImage": "anchovy.svg",
+        "contentImage":"anchovies.svg",
+        "price": 0.99
+    }
+    , 
+    {
+        "name": "Bacon",
+        "labelImage": "bacon.svg",
+        "contentImage":"bacons.svg",
+        "price": 0.99
+    }, 
+    {
+        "name": "Basil",
+        "labelImage": "basil.svg",
+        "contentImage":"basils.svg",
+        "price": 0.99
+    }, 
+    {
+        "name": "Chili",
+        "labelImage": "chili.svg",
+        "contentImage":"chilies.svg",
+        "price": 0.99
+    }, 
+    {
+        "name": "Mozzarella",
+        "labelImage": "mozzarella.svg",
+        "contentImage":"mozzarellas.svg",
+        "price": 0.99
+    }, 
+    {
+        "name": "Mushroom",
+        "labelImage": "mushroom.svg",
+        "contentImage":"mushrooms.svg",
+        "price": 0.99
+    }, 
+    {
+        "name": "Olive",
+        "labelImage": "olive.svg",
+        "contentImage":"olives.svg",
+        "price": 0.99
+    },
+    {
+        "name": "Onion",
+        "labelImage": "onion.svg",
+        "contentImage":"onions.svg",
+        "price": 0.99
+    },
+    {
+        "name": "Pepper",
+        "labelImage": "pepper.svg",
+        "contentImage":"peppers.svg",
+        "price": 0.99
+    }
+]
