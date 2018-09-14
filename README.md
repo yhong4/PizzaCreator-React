@@ -10,7 +10,7 @@ Chrome
 No
 
 ## Project URL
-[Link](https://pizzacreator-react-hy.herokuapp.com/)
+[APP Link](https://pizzacreator-react-hy.herokuapp.com/)
 
 ## Install in localhost
 1. Install npm
